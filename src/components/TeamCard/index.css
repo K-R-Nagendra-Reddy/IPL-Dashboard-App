@@ -1,0 +1,22 @@
+/* Write your CSS here */
+.teamImageUrl {
+  height: 35px;
+  width: 35px;
+}
+.team-name {
+  color: #ffffff;
+  font-size: 32px;
+  font-family: 'Roboto';
+  font-weight: bold;
+}
+.ipl-cards-container1 {
+  background-color: #ffffff33;
+  border-radius: 10px;
+  margin: 20px;
+  display: flex;
+  flex-direction: row;
+  border: solid #ffffff 2px;
+  margin: 20px;
+  align-items: center;
+  justify-content: space-evenly;
+}

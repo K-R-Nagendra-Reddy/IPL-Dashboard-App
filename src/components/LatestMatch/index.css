@@ -1,0 +1,21 @@
+/* Write your CSS here */
+.align-row-compe-team {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+}
+.comp-team-logo {
+  height: 40px;
+  width: 40px;
+}
+.latest-match-container {
+  background-color: #000000;
+  border-radius: 10px;
+  overflow: scroll;
+  text-align: center;
+}
+.color-style {
+  color: #ffffff;
+}
